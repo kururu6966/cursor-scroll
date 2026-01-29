@@ -1,0 +1,25 @@
+CHANGELOG.md
+  ecbe29fb14fef4e7 5-11
+package.json
+  ecbe29fb14fef4e7 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.40",
+  "base_commit_sha": "168daaa84920975dedbc4bdf54524e2cfba90147",
+  "prompts": {
+    "ecbe29fb14fef4e7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ef52c9c4-7359-4e05-867a-a076751030cd",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "kururu <kururu6966@gmail.com>",
+      "messages": [],
+      "total_additions": 8,
+      "total_deletions": 1,
+      "accepted_lines": 8,
+      "overriden_lines": 0
+    }
+  }
+}
