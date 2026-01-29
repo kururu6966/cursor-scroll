@@ -2,6 +2,13 @@
 
 All notable changes to the "cursor-scroll" extension will be documented in this file.
 
+## [0.1.1] - 2026-01-29
+
+### Changed
+- Unified extension name to cursor-scroll
+- Migrated linter from ESLint to oxlint
+- Added CI/CD pipeline (build, test, release workflows)
+
 ## [0.1.0] - 2026-01-28
 
 ### Added

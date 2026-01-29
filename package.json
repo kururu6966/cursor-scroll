@@ -2,7 +2,7 @@
   "name": "cursor-scroll",
   "displayName": "Cursor Scroll",
   "description": "Vim-like scroll position commands (zz/zt/zb) - scroll cursor line to center, top, or bottom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "kururu6966",
   "license": "MIT",
   "repository": {
