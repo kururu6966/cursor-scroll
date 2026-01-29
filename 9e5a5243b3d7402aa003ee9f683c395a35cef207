@@ -1,0 +1,25 @@
+.github/workflows/build-and-test.yml
+  a0a60f572f156a18 1-30
+.github/workflows/release.yml
+  a0a60f572f156a18 1-107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.40",
+  "base_commit_sha": "9e5a5243b3d7402aa003ee9f683c395a35cef207",
+  "prompts": {
+    "a0a60f572f156a18": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ef377061-3576-494e-afec-6e3f4de7bf1e",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "kururu <kururu6966@gmail.com>",
+      "messages": [],
+      "total_additions": 137,
+      "total_deletions": 0,
+      "accepted_lines": 137,
+      "overriden_lines": 0
+    }
+  }
+}
