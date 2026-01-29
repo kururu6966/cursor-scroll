@@ -1,0 +1,23 @@
+package.json
+  4d80665fe76e8f1b 72-73,78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.40",
+  "base_commit_sha": "72f8d907c616f2283c4b0135a4c9e921ce716ce7",
+  "prompts": {
+    "4d80665fe76e8f1b": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "fc935eb7-8906-4fa7-86a0-a7f18a39453c",
+        "model": "anthropic/claude-sonnet-4-5-20250929"
+      },
+      "human_author": "kururu <kururu6966@gmail.com>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 4,
+      "accepted_lines": 3,
+      "overriden_lines": 0
+    }
+  }
+}
