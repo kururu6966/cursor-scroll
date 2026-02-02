@@ -2,6 +2,11 @@
 
 All notable changes to the "cursor-scroll" extension will be documented in this file.
 
+## [0.1.2] - 2026-02-02
+
+### Changed
+- Added extension icon for Visual Studio Code Marketplace visibility
+
 ## [0.1.1] - 2026-01-29
 
 ### Changed
